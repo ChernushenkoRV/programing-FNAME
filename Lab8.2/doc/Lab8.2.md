@@ -8,10 +8,11 @@ __bold__
 *italic*
 _italic_
 ~~crosed~~
-***text***
-___text___
+***~~text~~***
+___~~text~~___
 > qote1
 >> qote 2
+
 генерація тварини
 '''C
 void generate_animal(struct animal *entity)
@@ -22,6 +23,7 @@ void generate_animal(struct animal *entity)
 }
 
 '''
+
 * елемент списку 1
 - елемент списку 2
 + елемент списку 3
@@ -32,7 +34,7 @@ void generate_animal(struct animal *entity)
 2. елемент списку 2
 3. елемент списку 3
     1. піделемент списку 
-        1. піделемент до піделементу списку
+      1. піделемент до піделементу списку
 
 - [x] task 1 
 - [ ] task 2
