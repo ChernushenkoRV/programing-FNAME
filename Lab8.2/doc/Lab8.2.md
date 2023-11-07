@@ -16,7 +16,7 @@ ___~~text~~___
 
 Генерація тварини
 
-'''C
+'''
 void generate_animal(struct animal *entity)
 {
 	entity->height = (unsigned int)random() % INT8_MAX;
