@@ -13,7 +13,9 @@ ___~~text~~___
 > qote1
 >> qote 2
 
-генерація тварини
+
+Генерація тварини
+
 '''C
 void generate_animal(struct animal *entity)
 {
