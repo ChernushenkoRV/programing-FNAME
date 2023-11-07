@@ -43,8 +43,10 @@ void generate_animal(struct animal *entity)
 - [ ] task 2
 
 https://github.com/ChernushenkoRV
+
 [GitHub](https://github.com/ChernushenkoRV)
-![Logo0](https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png, "Logo")
+
+
 
 |Left|Center|Right|
 |:---|:----:|----:|
