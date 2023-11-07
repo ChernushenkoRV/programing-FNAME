@@ -1,0 +1,6 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Головна функція." alt="" coords="5,31,60,57"/>
+<area shape="rect" id="node2" href="$lib_8c.html#ab4ab16cd45fb2d3250feead33d27c6ba" title="Створення даних про тварину." alt="" coords="108,5,240,32"/>
+<area shape="rect" id="node3" href="$lib_8c.html#a6d11661db937184ac42412095eff7765" title="Вивід до екрану вмісту масиву з даними про тварини." alt="" coords="117,56,231,83"/>
+<area shape="rect" id="node4" href="$lib_8c.html#ada7dadd553ab0fe3ecbbea06796ab9a0" title="Отримання текстового представлення значення типу тварини" alt="" coords="288,56,463,83"/>
+</map>

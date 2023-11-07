@@ -1,0 +1,4 @@
+<map id="show_animals" name="show_animals">
+<area shape="rect" id="node1" title="Вивід до екрану вмісту масиву з даними про тварини." alt="" coords="5,5,120,32"/>
+<area shape="rect" id="node2" href="$lib_8c.html#ada7dadd553ab0fe3ecbbea06796ab9a0" title="Отримання текстового представлення значення типу тварини" alt="" coords="168,5,343,32"/>
+</map>
