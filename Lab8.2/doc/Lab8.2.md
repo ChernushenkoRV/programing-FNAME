@@ -36,8 +36,8 @@ void generate_animal(struct animal *entity)
 1. елемент списку 1
 2. елемент списку 2
 3. елемент списку 3
-    + піделемент списку 
-        + піделемент до піделементу списку
+    1. піделемент списку 
+        1. піделемент до піделементу списку
 
 - [x] task 1 
 - [ ] task 2
@@ -47,7 +47,7 @@ https://github.com/ChernushenkoRV
 ![Logo0](https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png, "Logo")
 
 |Left|Center|Right|
-|----|:----:|----:|
+|:---|:----:|----:|
 |по лівому краю|по центру|по правому краю|
 |text|text|text|
 
